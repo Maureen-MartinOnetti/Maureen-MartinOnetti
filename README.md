@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋, Je suis Maureen et bienvenue sur mon GitHub</h1>
-<h3 align="center">🔭Je suis étudiante à Ada Tech School - Prom Janvier 2024</h3>
+<h3 align="center">🔭 Je suis étudiante à Ada Tech School - Prom Janvier 2024</h3>
 
 - 🌱 Je suis actuellement en train d'apprendre **JS, HTML, CSS, ReactJS, NextJS, NodeJS...**
 
-- 📫 Comment me contacter **maureen@acchiardo.fr**
+- 📫 Comment me contacter: **maureen@acchiardo.fr**
 
 - 📄 Retrouver mes expériences professionnelles sur mon linkedIn [https://www.linkedin.com/in/maureen-martin-onetti/](https://www.linkedin.com/in/maureen-martin-onetti/)
 
