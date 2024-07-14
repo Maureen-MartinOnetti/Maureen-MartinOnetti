@@ -2,8 +2,7 @@
 
 - 🔭 Je suis étudiante à Ada Tech School - Prom Janvier 2024
 
-- 🚀 Je recherche une alternance pour octobre/novembre 2024 pour une durée d'un an.
-     Rythme: 4jrs/en entreprise, vendredi à lécole.
+- 🚀 Je recherche une alternance pour octobre/novembre 2024 pour une durée d'un an. <br> Rythme: 4jrs/en entreprise, vendredi à lécole.
 
 - 🌱 Je suis actuellement en train d'apprendre **JS, HTML, CSS, ReactJS, NextJS, NodeJS...**
 
