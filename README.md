@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je suis Maureen et bienvenue sur mon GitHub</h1>
+<h1 align="center">Bonjour 👋, Je suis Maureen, bienvenue sur mon GitHub!</h1>
 
 - 🔭 Je suis étudiante à Ada Tech School - Prom Janvier 2024
 
